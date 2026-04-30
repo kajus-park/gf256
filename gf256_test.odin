@@ -1,7 +1,5 @@
 package gf256
 
-import gf "./"
-import "core:fmt"
 import "core:math/rand"
 import "core:testing"
 
